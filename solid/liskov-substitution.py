@@ -5,6 +5,8 @@ The idea is that if you have some interface that takes
 some sort of base class, You should be able to stick
 a derived class in there and everything should work
 
+You should be able to substitute a base type for a subtype
+
 __________________________________________________________
 
 принцип подстановки Барбары Лисков.
