@@ -4,6 +4,10 @@ ISP - Interface Segregation Principle (принцип разделения ин�
 Segregate the interfaces into smaller interfaces,
 so that the clients will only have to know about
 the methods that are of interest to them.
+
+YAGNI - You Ain't Gonna Need It
+You're not going to need certain methods implemented
+So why force other people to implement the interface in the first place?
 """
 from abc import abstractmethod
 
